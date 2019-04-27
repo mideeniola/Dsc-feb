@@ -1,0 +1,33 @@
+body {
+    background-color: #fffae6;
+}
+/* full stop preceeds a class name */
+.heading {
+    color:  red;
+    border-bottom:1px solid #b38f00;
+    text-transform: capitalize;
+}
+
+/* hash tag preceeds an id*/
+#login_form {
+    margin-left: 250px;
+    margin-top: 50px;
+    width: 300px;
+}
+
+#btn {
+    width: 100%;
+    margin-top: 10px;
+    background-color: #b38f00;
+    border: 0;
+    text-transform: uppercase;
+    padding: 5px;
+    color:rgb(114, 248, 4);
+}
+
+.form-group {
+    margin-top: 10px;
+    border-top: 50px;
+
+}
+
